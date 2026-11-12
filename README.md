@@ -181,7 +181,7 @@ Sales-Analyzer-Python/
   
 
 
-## 🙏 Acknowledgments & Inspiration
+## 🙏 Acknowledgment & Inspiration
 
 * **Project Guidance & Dataset Concept:** Inspired by the Python data analysis tutorial by **[DataSteroid]** ([Complete Python for Data Analysis🔥(2025)] ([https://www.youtube.com/watch?v=S-ThqsqjIb4])).
 
