@@ -20,6 +20,8 @@
 
 * [How to Run This Project](#how-to-run-this-project)
 
+* [Acknowledgment & Inspiration](#Acknowledgments-Inspiration)
+
 * [Future Enhancements](#future-enhancements)
 
 * [Author & Contact](#author--contact)
@@ -176,6 +178,13 @@ Sales-Analyzer-Python/
    * Ensure `sales_data.csv` is in the root working directory.
 
    * Run all cells sequentially. When prompted in **Q9**, input start and end dates in `YYYY-MM-DD` format (e.g., `2023-01-01` and `2023-01-31`).
+  
+
+
+## 🙏 Acknowledgments & Inspiration
+
+* **Project Guidance & Dataset Concept:** Inspired by the Python data analysis tutorial by **[DataSteroid]** ([Complete Python for Data Analysis🔥(2025)]([https://www.youtube.com/watch?v=S-ThqsqjIb4])).
+
 
 ## 🛠️ Future Enhancements
 
