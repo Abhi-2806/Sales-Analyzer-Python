@@ -159,8 +159,6 @@ Sales-Analyzer-Python/
 
    ```
    git clone https://github.com/Abhi-2806/Sales-Analyzer-Python.git
-   cd Sales-Analyzer-Python
-   https://github.com/Abhi-2806/Sales-Analyzer-Python.git
    ```
 
 2. **Ensure Python 3.x is installed:**
@@ -193,6 +191,6 @@ Sales-Analyzer-Python/
 
 * 📧 **Email:** [wayoflife507@gmail.com](mailto:wayoflife507@gmail.com)
 
-* 🔗 **LinkedIn:** [linkedin.com/in/abhishekpathak2806](https://www.linkedin.com/in/abhishekpathak2806/)
+* 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhishekpathak2806/) 
 
 * 💻 **Contact NO.:** (6307017308)
