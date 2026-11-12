@@ -20,7 +20,7 @@
 
 * [How to Run This Project](#how-to-run-this-project)
 
-* [Acknowledgment & Inspiration](#Acknowledgments-Inspiration)
+* [Acknowledgment & Inspiration](#Acknowledgment-Inspiration)
 
 * [Future Enhancements](#future-enhancements)
 
@@ -183,7 +183,7 @@ Sales-Analyzer-Python/
 
 ## 🙏 Acknowledgments & Inspiration
 
-* **Project Guidance & Dataset Concept:** Inspired by the Python data analysis tutorial by **[DataSteroid]** ([Complete Python for Data Analysis🔥(2025)]([https://www.youtube.com/watch?v=S-ThqsqjIb4])).
+* **Project Guidance & Dataset Concept:** Inspired by the Python data analysis tutorial by **[DataSteroid]** ([Complete Python for Data Analysis🔥(2025)] ([https://www.youtube.com/watch?v=S-ThqsqjIb4])).
 
 
 ## 🛠️ Future Enhancements
